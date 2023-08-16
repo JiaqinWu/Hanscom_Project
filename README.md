@@ -1,1 +1,10 @@
-# Hanscom_Project
+# Exploring Private Jet Proportion at Hanscom Airport: A Consideration for Air Pollution Mitigation
+In this project, we delve into the flight records of Hanscom Airport to gain insights into the proportion of private jet flights. Our primary objective is to assess whether there's a compelling need for the Massachusetts government to expand the airport's facilities, while carefully considering the implications for air pollution.
+
+To kick-start our analysis, we accessed the flight records from the [Flightera website] (https://www.flightera.net/en) using an API. The specific details on how we accomplished this can be found in our [Web Scrape API code](https://github.com/JiaqinWu/Hanscom_Project/tree/main/Web_Scrape_API.ipynb].
+
+Once we obtained the flight data, our next step involved data cleaning and shaping to suit our analytical purposes. We meticulously refined the data to focus on the key elements we needed for our investigation. For a detailed understanding of our data cleaning process and the decisions we made, you can explore our [Data Clean and Visualization code](https://github.com/JiaqinWu/Hanscom_Project/tree/main/Data_Clean_and_Visualization.ipynb].
+
+With our data prepared, we ventured into the realm of data visualization and descriptive analysis. By harnessing visualization techniques, we aimed to extract meaningful insights from the flight records. These insights will play a pivotal role in our assessment of whether expanding Hanscom Airport is a judicious decision, considering the potential impact on air pollution.
+
+Our project stands at the intersection of aviation, environmental considerations, and data analytics. By examining the private jet proportion and delving into the nuances of air pollution, we aim to contribute to informed decision-making that aligns with both economic development and environmental sustainability.
